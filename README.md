@@ -321,14 +321,6 @@ http://localhost:3000
 ### 🐶 Sistema de adopción
 <img src="./public/images/screenshot.png" width="100%"/>
 
-### 🌐 Smart Contracts Soroban
-<img src="https://images.unsplash.com/photo-1639762681485-074b7f938ba0?q=80&w=1400&auto=format&fit=crop" width="100%"/>
-
-### ⚛️ Frontend React
-<img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1400&auto=format&fit=crop" width="100%"/>
-
-### 🔗 Web3 Integration
-<img src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=1400&auto=format&fit=crop" width="100%"/>
 
 </div>
 
