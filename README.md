@@ -199,7 +199,7 @@ Módulo de integración blockchain.
 # 📂 Estructura del proyecto
 
 ```bash
-Pet-Adopt-Soroban/
+AppAdopcionMascotasDescentralizada/
 │
 ├── public/
 │   └── images/
@@ -275,7 +275,7 @@ Usuario → Wallet → Adoptar mascota → Blockchain Storage
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/isairey/Pet-Adopt-Soroban.git
+git clone https://github.com/isairey/AppAdopcionMascotasDescentralizada.git
 ```
 
 ---
@@ -283,7 +283,7 @@ git clone https://github.com/isairey/Pet-Adopt-Soroban.git
 ## 2️⃣ Entrar al proyecto
 
 ```bash
-cd Pet-Adopt-Soroban
+cd AppAdopcionMascotasDescentralizada
 ```
 
 ---
